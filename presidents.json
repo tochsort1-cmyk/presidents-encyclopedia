@@ -1,0 +1,779 @@
+[
+  {
+    "country": "United States (សហរដ្ឋអាមេរិក)",
+    "leader": "Abraham Lincoln",
+    "title": "ប្រធានាធិបតីទី១៦ / 16th President",
+    "quote": "“Government of the people, by the people, for the people, shall not perish from the earth.”\n(រដ្ឋាភិបាលនៃប្រជាជន ដោយប្រជាជន និងដើម្បីប្រជាជន នឹងមិនវិនាសសូន្យពីផែនដីនេះឡើយ។)",
+    "info": "Achievements: Led the nation through the American Civil War and abolished slavery.\n(សមិទ្ធផល៖ ដឹកនាំការបង្រួបបង្រួមជាតិ និងលុបបំបាត់ទាសភាព។)"
+  },
+  {
+    "country": "Cambodia (ព្រះរាជាណាចក្រកម្ពុជា)",
+    "leader": "សម្ដេចតេជោ ហ៊ុន សែន",
+    "title": "នាយករដ្ឋមន្ត្រី និងប្រធានព្រឹទ្ធសភា",
+    "quote": "“Peace does not come by chance; it requires tremendous sacrifice to build and maintain.”\n(សន្តិភាពមិនមែនកើតឡើងដោយចៃដន្យនោះទេ វាទាមទារការលះបង់ដ៏ធំធេងដើម្បីកសាង និងរក្សា។)",
+    "info": "Achievements: Founder of the Win-Win Policy bringing full peace and development.\n(សមិទ្ធផល៖ ស្ថាបនិកនយោបាយឈ្នះ-ឈ្នះ នាំមកជូនកម្ពុជានូវសន្តិភាពពេញលេញ។)"
+  },
+  {
+    "country": "France (ប្រទេសបារាំង)",
+    "leader": "Charles de Gaulle",
+    "title": "ប្រធានាធិបតីទី១៨ / 18th President",
+    "quote": "“Greatness is a road leading away from the obvious.”\n(ភាពអស្ចារ្យមិនអាចកើតមានឡើយ ប្រសិនបើគ្មានការលះបង់ និងការតស៊ូ។)",
+    "info": "Achievements: Leader of Free French Forces and founder of the Fifth Republic.\n(សមិទ្ធផល៖ មេដឹកនាំកងកម្លាំងតស៊ូបារាំងសេរី និងស្ថាបនិកសាធារណរដ្ឋទី៥។)"
+  },
+  {
+    "country": "South Africa (អាហ្វ្រិកខាងត្បូង)",
+    "leader": "Nelson Mandela",
+    "title": "ប្រធានាធិបតីស្បែកខ្មៅដំបូងគេ / First Black President",
+    "quote": "“Education is the most powerful weapon which you can use to change the world.”\n(ការអប់រំគឺជាអាវុធដ៏មានអានុភាពបំផុតដែលអ្នកអាចប្រើដើម្បីផ្លាស់ប្តូរពិភពលោក។)",
+    "info": "Achievements: Fought against apartheid and built a peaceful nation.\n(សមិទ្ធផល៖ តស៊ូប្រឆាំងការរើសអើងពូជសាសន៍ និងកសាងសន្តិភាព។)"
+  },
+  {
+    "country": "Singapore (សិង្ហបុរី)",
+    "leader": "Lee Kuan Yew",
+    "title": "នាយករដ្ឋមន្ត្រីទី១ / Founding Prime Minister",
+    "quote": "“If you want to reach forward, you must be bold to face facts.”\n(ប្រសិនបើអ្នកចង់ឈានទៅមុខ អ្នកត្រូវតែហ៊ានប្រឈមមុខនឹងការពិត។)",
+    "info": "Achievements: Transformed Singapore into a developed global hub.\n(សមិទ្ធផល៖ ប្រែក្លាយសិង្ហបុរីទៅជាប្រទេសអភិវឌ្ឍន៍ជឿនលឿន។)"
+  },
+  {
+    "country": "Japan (ប្រទេសជប៉ុន)",
+    "leader": "Shinzo Abe",
+    "title": "នាយករដ្ឋមន្ត្រី / Prime Minister",
+    "quote": "“Creating a new future requires the courage to reform.”\n(ការបង្កើតអនាគតថ្មី ទាមទារភាពក្លាហានក្នុងការកែទម្រង់។)",
+    "info": "Achievements: Implemented 'Abenomics' to revitalize Japan's economy.\n(សមិទ្ធផល៖ ដាក់ចេញគោលនយោបាយ Abenomics ស្ដារសេដ្ឋកិច្ចជប៉ុន។)"
+  },
+  {
+    "country": "India (ប្រទេសឥណ្ឌា)",
+    "leader": "Mahatma Gandhi",
+    "title": "មេដឹកនាំស្ថាបនិកជាតិ / Founding Leader",
+    "quote": "“Be the change that you wish to see in the world.”\n(ចូរជារូបភាពនៃសេចក្តីផ្លាស់ប្តូរដែលអ្នកចង់ឃើញនៅលើពិភពលោក។)",
+    "info": "Achievements: Led India to independence through non-violent resistance.\n(សមិទ្ធផល៖ ដឹកនាំចលនាតស៊ូអហិង្សារំដោះប្រទេសឥណ្ឌា។)"
+  },
+  {
+    "country": "China (ប្រទេសចិន)",
+    "leader": "Xi Jinping",
+    "title": "ប្រធានាធិបតីចិន / President of China",
+    "quote": "“The Chinese dream is the great rejuvenation of the Chinese nation.”\n(សុបិនចិនគឺការបន្តសម្រេចបាននូវការវិវឌ្ឍដ៏អស្ចារ្យរបស់ប្រជាជាតិចិន។)",
+    "info": "Achievements: Guided economic reforms and the Belt and Road Initiative.\n(សមិទ្ធផល៖ ដឹកនាំកែទម្រង់សេដ្ឋកិច្ច និងគំនិតផ្តួចផ្តើមខ្សែក្រវាត់។)"
+  },
+  {
+    "country": "South Korea (កូរ៉េខាងត្បូង)",
+    "leader": "Park Chung-hee",
+    "title": "ប្រធានាធិបតីទី៣ / 3rd President",
+    "quote": "“Hard work and diligence are the foundation of national prosperity.”\n(កិច្ចខិតខំប្រឹងប្រែង និងការឧស្សាហ៍ព្យាយាម គឺជាគ្រឹះនៃភាពរុងរឿង។)",
+    "info": "Achievements: Spearheaded the 'Miracle on the Han River'.\n(សមិទ្ធផល៖ ជំរុញចលនាសេដ្ឋកិច្ច Miracle on the Han River។)"
+  },
+  {
+    "country": "Vietnam (ប្រទេសវៀតណាម)",
+    "leader": "Ho Chi Minh",
+    "title": "ប្រធានាធិបតីទី១ / 1st President",
+    "quote": "“Nothing is more precious than independence and freedom.”\n(គ្មានអ្វីមានតម្លៃជាងឯករាជ្យ និងសេរីភាពឡើយ។)",
+    "info": "Achievements: Revolutionary leader and founder of modern Vietnam.\n(សមិទ្ធផល៖ មេដឹកនាំបដិវត្តន៍ និងជាស្ថាបនិកវៀតណាមសម័យទំនើប។)"
+  },
+  {
+    "country": "Indonesia (ប្រទេសឥណ្ឌូណេស៊ី)",
+    "leader": "Sukarno",
+    "title": "ប្រធានាធិបតីទី១ / 1st President",
+    "quote": "“A great nation is one that respects its history and culture.”\n(ជាតិដ៏អស្ចារ្យគឺជាតិដែលចេះគោរពប្រវត្តិសាស្ត្រ និងវប្បធម៌។)",
+    "info": "Achievements: Led the Indonesian independence struggle against Dutch rule.\n(សមិទ្ធផល៖ មេដឹកនាំប្រយុទ្ធទាមទារឯករាជ្យពីហូឡង់។)"
+  },
+  {
+    "country": "Philippines (ប្រទេសហ្វីលីពីន)",
+    "leader": "Jose Rizal",
+    "title": "វីរជនជាតិ / National Hero",
+    "quote": "“The youth is the hope of our motherland.”\n(យុវជនគឺជាក្តីសង្ឃឹមនៃអនាគតប្រទេសជាតិរបស់យើង។)",
+    "info": "Achievements: Used literature to inspire nationalism and reform.\n(សមិទ្ធផល៖ ប្រើប្រាស់ស្នាដៃអក្សរសាស្ត្រដាស់ស្មារតីស្នេហាជាតិ។)"
+  },
+  {
+    "country": "Thailand (ព្រះរាជាណាចក្រថៃ)",
+    "leader": "King Bhumibol Adulyadej",
+    "title": "ព្រះមហាក្សត្រថៃ រជ្ជកាលទី៩ / Rama IX",
+    "quote": "“Working with patience, honesty, and for the public interest.”\n(ការធ្វើការងារអ្វីក៏ដោយ ត្រូវមានស្មារតីអត់ធ្មត់ ស្មោះត្រង់ និងគិតដល់ផលប្រយោជន៍រួម។)",
+    "info": "Achievements: Devoted his life to rural development projects.\n(សមិទ្ធផល៖ បូជាព្រះកាយពុះពារកិច្ចការអភិវឌ្ឍន៍ជនបទ។)"
+  },
+  {
+    "country": "Malaysia (ប្រទេសម៉ាឡេស៊ី)",
+    "leader": "Mahathir Mohamad",
+    "title": "នាយករដ្ឋមន្ត្រី / Prime Minister",
+    "quote": "“If you have the true will, nothing is impossible.”\n(ប្រសិនបើអ្នកមានឆន្ទៈពិតប្រាកដ គ្មានអ្វីដែលមិនអាចធ្វើទៅរួចឡើយ។)",
+    "info": "Achievements: Modernized Malaysia into an industrialized nation.\n(សមិទ្ធផល៖ បម្លែងម៉ាឡេស៊ីឱ្យទៅជាប្រទេសឧស្សាហូបនីយកម្មទំនើប។)"
+  },
+  {
+    "country": "United Kingdom (ចក្រភពអង់គ្លេស)",
+    "leader": "Winston Churchill",
+    "title": "នាយករដ្ឋមន្ត្រី / Prime Minister",
+    "quote": "“Success is not final, failure is not fatal: it is the courage to continue that counts.”\n(ភាពជោគជ័យមិនមែនជាទីបញ្ចប់ទេ ការបរាជ័យមិនមែនជារឿងស្លាប់រស់ គឺភាពក្លាហានបន្តទៅមុខ។)",
+    "info": "Achievements: Led Britain to victory in World War II.\n(សមិទ្ធផល៖ ដឹកនាំអង់គ្លេសទប់ទល់នឹងសង្គ្រាមលោកលើកទី២។)"
+  },
+  {
+    "country": "Germany (ប្រទេសអាល្លឺម៉ង់)",
+    "leader": "Angela Merkel",
+    "title": "អធិការបតី / Chancellor",
+    "quote": "“Challenges can be solved only if we work together with trust.”\n(បញ្ហាប្រឈមអាចដោះស្រាយបាន លុះត្រាតែយើងធ្វើការរួមគ្នាដោយភាពទុកចិត្ត។)",
+    "info": "Achievements: Guided Europe's economy through major crises.\n(សមិទ្ធផល៖ ដឹកនាំសេដ្ឋកិច្ចអឺរ៉ុបឆ្លងកាត់វិបត្តិធំៗ។)"
+  },
+  {
+    "country": "Russia (ប្រទេសរុស្ស៊ី)",
+    "leader": "Peter the Great",
+    "title": "អធិរាជរុស្ស៊ី / Russian Emperor",
+    "quote": "“Reforming the nation requires learning from global technology.”\n(ការកែទម្រង់ប្រទេស ទាមទារឱ្យមានការរៀនសូត្រពីបច្ចេកវិទ្យាពិភពលោក។)",
+    "info": "Achievements: Modernized Russia and founded Saint Petersburg.\n(សមិទ្ធផល៖ ធ្វើទំនើបកម្មប្រទេសរុស្ស៊ី និងកសាងទីក្រុងសាំងពេទឺប៊ឺគ។)"
+  },
+  {
+    "country": "Italy (ប្រទេសអ៊ីតាលី)",
+    "leader": "Giuseppe Garibaldi",
+    "title": "វីរជនបង្រួបបង្រួមជាតិ / National Hero",
+    "quote": "“I offer neither pay, nor quarters, nor food; I offer hunger, death, and victory.”\n(ខ្ញុំសន្យាត្រឹមការនឿយហត់ ការខិតខំ និងការស្លាប់ដើម្បីជាតិ។)",
+    "info": "Achievements: Led the unification of Italy.\n(សមិទ្ធផល៖ ដឹកនាំបង្រួបបង្រួមប្រទេសអ៊ីតាលីឱ្យក្លាយជារដ្ឋតែមួយ។)"
+  },
+  {
+    "country": "Turkey (ប្រទេសទួរគី)",
+    "leader": "Mustafa Kemal Atatürk",
+    "title": "ប្រធានាធិបតីទី១ / 1st President",
+    "quote": "“Peace at home, peace in the world.”\n(សន្តិភាពនៅផ្ទះ សន្តិភាពនៅលើពិភពលោក។)",
+    "info": "Achievements: Founder of modern secular Turkey.\n(សមិទ្ធផល៖ ស្ថាបនិកសាធារណរដ្ឋទួរគីសម័យទំនើប។)"
+  },
+  {
+    "country": "Australia (ប្រទេសអូស្ត្រាលី)",
+    "leader": "Robert Menzies",
+    "title": "នាយករដ្ឋមន្ត្រី / Prime Minister",
+    "quote": "“The future belongs to those who think big and plan carefully.”\n(អនាគតជាកម្មសិទ្ធិរបស់អ្នកដែលហ៊ានគិតធំ និងរៀបចំផែនការច្បាស់លាស់។)",
+    "info": "Achievements: Expanded education and industrial growth in Australia.\n(សមិទ្ធផល៖ ពង្រីកវិស័យអប់រំ និងឧស្សាហកម្មអូស្ត្រាលី។)"
+  },
+  {
+    "country": "Canada (ប្រទេសកាណាដា)",
+    "leader": "John A. Macdonald",
+    "title": "នាយករដ្ឋមន្ត្រីទី១",
+    "quote": "“Diversity is our greatest strength.”\n(បណ្តុំនៃភាពចម្រុះ គឺជាកម្លាំងដ៏អស្ចារ្យបំផុត។)",
+    "info": "ស្ថាបនិកសហព័ន្ធកាណាដា។"
+  },
+  {
+    "country": "Brazil (ប្រទេសប្រេស៊ីល)",
+    "leader": "Juscelino Kubitschek",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Development is a reality that cannot be delayed.”\n(ការអភិវឌ្ឍគឺជារឿងពិត ដែលមិនអាចពន្យារពេលបាន។)",
+    "info": "ស្ថាបនិកទីក្រុងរដ្ឋធានី Brasília។"
+  },
+  {
+    "country": "Argentina (ប្រទេសអាហ្សង់ទីន)",
+    "leader": "José de San Martín",
+    "title": "វីរជនរំដោះជាតិ",
+    "quote": "“Courage is standing up in the face of despair.”\n(ភាពក្លាហានពិតប្រាកដ គឺការក្រោកឈរពេលប្រឈមមុខនឹងភាពអស់សង្ឃឹម។)",
+    "info": "មេទ័ពរំដោះប្រទេសអាហ្សង់ទីន ឈីលី និងប៉េរូ។"
+  },
+  {
+    "country": "Egypt (ប្រទេសអេហ្ស៊ីប)",
+    "leader": "Anwar Sadat",
+    "title": "ប្រធានាធិបតីទី៣",
+    "quote": "“Peace cannot be achieved through fear; it takes courage.”\n(សន្តិភាពមិនអាចសម្រេចបានដោយការភ័យខ្លាចទេ វាទាមទារភាពក្លាហាន។)",
+    "info": "ចុះហត្ថលេខាលើកិច្ចព្រមព្រៀងសន្តិភាពប្រវត្តិសាស្ត្រ។"
+  },
+  {
+    "country": "Saudi Arabia (អារ៉ាប៊ីសាអូឌីត)",
+    "leader": "King Abdulaziz",
+    "title": "ស្ថាបនិកព្រះរាជាណាចក្រ",
+    "quote": "“Solidarity and firm belief build a strong state.”\n(សាមគ្គីភាព និងជំនឿមុតមាំ គឺជាកម្លាំងកសាងរដ្ឋ។)",
+    "info": "ស្ថាបនិកព្រះរាជាណាចក្រអារ៉ាប៊ីសាអូឌីត។"
+  },
+  {
+    "country": "Switzerland (ប្រទេសស្វីស)",
+    "leader": "Guillaume Tell",
+    "title": "វីរជនប្រវត្តិសាស្ត្រ",
+    "quote": "“True freedom is the courage to oppose injustice.”\n(សេរីភាពពិតប្រាកដ គឺការក្លាហានប្រឆាំងអំពើអយុត្តិធម៌។)",
+    "info": "និមិត្តរូបនៃការតស៊ូเพื่อសេរីភាពស្វីស។"
+  },
+  {
+    "country": "Sweden (ប្រទេសស៊ុយអែត)",
+    "leader": "Gustav Vasa",
+    "title": "ព្រះមហាក្សត្រស្ថាបនិក",
+    "quote": "“National strength depends on citizen unity.”\n(កម្លាំងប្រទេសជាតិ អាស្រ័យលើការរួបរួមប្រជាពលរដ្ឋ។)",
+    "info": "អ្នកបង្រួបបង្រួមប្រទេសស៊ុយអែត។"
+  },
+  {
+    "country": "Poland (ប្រទេសប៉ូឡូញ)",
+    "leader": "Lech Wałęsa",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Freedom, solidarity, and justice are humanity's breath.”\n(សេរីភាព សាមគ្គីភាព និងយុត្តិធម៌ គឺជាដង្ហើមមនុស្សជាតិ។)",
+    "info": "មេដឹកនាំចលនា Solidarność រំលំរបបកុម្មុយនិស្ត។"
+  },
+  {
+    "country": "Ukraine (ប្រទេសអ៊ុយក្រែន)",
+    "leader": "Volodymyr Zelenskyy",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“We are here, defending our homeland and future.”\n(ពួកយើងនៅទីនេះ ការពារមាតុភូមិ និងអនាគត។)",
+    "info": "ដឹកនាំការពារអធិបតេយ្យភាពជាតិអ៊ុយក្រែន។"
+  },
+  {
+    "country": "Mexico (ប្រទេសម៉ិកស៊ិក)",
+    "leader": "Benito Juárez",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Respect for others' rights is peace.”\n(ការគោរពសិទ្ធិអ្នកដទៃ គឺជាសន្តិភាព។)",
+    "info": "ការពារអធិបតេយ្យភាពម៉ិកស៊ិកពីការឈ្លានពាន។"
+  },
+  {
+    "country": "Colombia (ប្រទេសកូឡុំប៊ី)",
+    "leader": "Simón Bolívar",
+    "title": "មេដឹកនាំរំដោះ",
+    "quote": "“Freedom is the most precious gift to defend with life.”\n(សេរីភាពជាអំណោយមានតម្លៃ ត្រូវការពារដោយជីវិត។)",
+    "info": "រដ្ឋបុរសរំដោះអាមេរិកឡាទីន។"
+  },
+  {
+    "country": "Chile (ប្រទេសឈីលី)",
+    "leader": "Salvador Allende",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“History is ours and made by the people.”\n(ប្រវត្តិសាស្ត្រជាកម្មសិទ្ធិយើង បង្កើតឡើងដោយប្រជាជន។)",
+    "info": "មេដឹកនាំសង្គមនិយម និងតស៊ូដើម្បីពលករ។"
+  },
+  {
+    "country": "Cuba (ប្រទេសគុយបា)",
+    "leader": "Fidel Castro",
+    "title": "មេដឹកនាំបដិវត្តន៍",
+    "quote": "“Revolution is a struggle between past and future.”\n(បដិវត្តន៍ជាការតស៊ូរវាងអតីតកាល និងអនាគតកាល។)",
+    "info": "ដឹកនាំបដិវត្តន៍គុយបាជាង ៤ ទសវត្សរ៍។"
+  },
+  {
+    "country": "Nigeria (ប្រទេសនីហ្សេរីយ៉ា)",
+    "leader": "Nnamdi Azikiwe",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Africa can rule itself with solidarity.”\n(អាហ្វ្រិកអាចគ្រប់គ្រងខ្លួនឯងបាន បើមានសាមគ្គីភាព។)",
+    "info": "បិតាស្ថាបនិកឯករាជ្យនីហ្សេរីយ៉ា។"
+  },
+  {
+    "country": "Kenya (ប្រទេសកេនយ៉ា)",
+    "leader": "Jomo Kenyatta",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Hard work and cooperation are keys to social development.”\n(កិច្ចសហការ និងការខិតខំ គឺជាគន្លឹះអភិវឌ្ឍសង្គម។)",
+    "info": "បិតាស្ថាបនិក និងអ្នករំដោះកេនយ៉ា។"
+  },
+  {
+    "country": "Ghana (ប្រទេសហ្គាណា)",
+    "leader": "Kwame Nkrumah",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Independence is meaningless without a united Africa.”\n(ឯករាជ្យគ្មានន័យទេ បើអាហ្វ្រិកមិនរួបរួម។)",
+    "info": "អ្នកស្នើគំនិតបង្រួបបង្រួមទ្វីបអាហ្វ្រិក។"
+  },
+  {
+    "country": "Morocco (ប្រទេសម៉ារុក)",
+    "leader": "King Mohammed V",
+    "title": "ព្រះមហាក្សត្រ",
+    "quote": "“Courage and loyalty to the nation protect the land.”\n(ក្លាហាននិងភក្ដីភាពជាតិ ជាខែលការពារទឹកដី។)",
+    "info": "ដឹកនាំតស៊ូទាមទារឯករាជ្យពីបារាំង។"
+  },
+  {
+    "country": "New Zealand (នូវែលសេឡង់)",
+    "leader": "Jacinda Ardern",
+    "title": "នាយករដ្ឋមន្ត្រី",
+    "quote": "“Compassionate leadership is a powerful force.”\n(ភាពជាអ្នកដឹកនាំប្រកបដោយមេត្តាធម៌ ជាកម្លាំងខ្លាំងក្លា។)",
+    "info": "គ្រប់គ្រងវិបត្តិនិងសង្គមដោយភាពកក់ក្តៅ។"
+  },
+  {
+    "country": "Pakistan (ប្រទេសប៉ាគីស្ថាន)",
+    "leader": "Muhammad Ali Jinnah",
+    "title": "ស្ថាបនិកប្រទេស",
+    "quote": "“Faith, discipline, and selfless devotion lead to success.”\n(ជំនឿ វិន័យ និងការខិតខំ នាំទៅរកជោគជ័យ។)",
+    "info": "បិតាស្ថាបនិកបង្កើតរដ្ឋប៉ាគីស្ថាន។"
+  },
+  {
+    "country": "Bangladesh (ប្រទេសបង់ក្លាដែស)",
+    "leader": "Sheikh Mujibur Rahman",
+    "title": "បិតាស្ថាបនិក",
+    "quote": "“No force can crush the will of people wanting freedom.”\n(គ្មានកម្លាំងណាបំផ្លាញឆន្ទៈសេរីភាពបានទេ។)",
+    "info": "មេដឹកនាំប្រយុទ្ធទាមទារឯករាជ្យឆ្នាំ១៩៧១។"
+  },
+  {
+    "country": "Iran (ប្រទេសអ៊ីរ៉ង់)",
+    "leader": "Cyrus the Great",
+    "title": "អធិរាជស្ថាបនិក",
+    "quote": "“Religious freedom and cultural respect build great empires.”\n(សេរីភាពសាសនា និងគោរពវប្បធម៌ គឺជាគ្រឹះអាណាចក្រ។)",
+    "info": "បង្កើតគំរូសិទ្ធិមនុស្សដំបូងក្នុងប្រវត្តិសាស្ត្រ។"
+  },
+  {
+    "country": "Iraq (ប្រទេសអ៊ីរ៉ាក់)",
+    "leader": "Hammurabi",
+    "title": "ស្តេចបាប៊ីឡូន",
+    "quote": "“Laws must be just to protect the weak from the strong.”\n(ច្បាប់ត្រូវយុត្តិធម៌ ដើម្បីការពារជនខ្សោយ។)",
+    "info": "អ្នកកសាងក្រមច្បាប់ដ៏ល្បីល្បាញ។"
+  },
+  {
+    "country": "Greece (ប្រទេសក្រិច)",
+    "leader": "Alexander the Great",
+    "title": "ស្តេច និងមេទ័ព",
+    "quote": "“Nothing is impossible to those who will try.”\n(គ្មានអ្វីមិនអាចធ្វើទៅរួចទេ សម្រាប់អ្នកព្យាយាម។)",
+    "info": "ពង្រីកអរិយធម៌ក្រិចទូទាំងពិភពលោក។"
+  },
+  {
+    "country": "Israel (ប្រទេសអ៊ីស្រាអែល)",
+    "leader": "David Ben-Gurion",
+    "title": "នាយករដ្ឋមន្ត្រីទី១",
+    "quote": "“In Israel, to be a realist you must believe in miracles.”\n(អ្នកមិនជឿអច្ឆរិយៈ មិនមែនជាមនុស្សប្រាកដនិយមទេ។)",
+    "info": "បិតាស្ថាបនិករដ្ឋអ៊ីស្រាអែលសម័យទំនើប។"
+  },
+  {
+    "country": "Portugal (ប្រទេសព័រទុយហ្គាល់)",
+    "leader": "Vasco da Gama",
+    "title": "អ្នករុករក",
+    "quote": "“Stepping forward means finding new uncharted paths.”\n(បោះជំហានទៅមុខ គឺស្វែងរកផ្លូវថ្មី។)",
+    "info": "បើកទំព័រប្រវត្តិសាស្ត្រពាណិជ្ជកម្មសមុទ្រសកល។"
+  },
+  {
+    "country": "Belgium (ប្រទេសបែលហ្ស៊ិក)",
+    "leader": "King Leopold I",
+    "title": "ព្រះមហាក្សត្រទី១",
+    "quote": "“Neutrality and diplomacy are shields of stability.”\n(អព្យាក្រឹតភាព និងការទូត ជាខែលការពារជាតិ។)",
+    "info": "រក្សាឯករាជ្យភាពបែលហ្ស៊ិកដំបូង។"
+  },
+  {
+    "country": "Austria (ប្រទេសអូទ្រីស)",
+    "leader": "Maria Theresa",
+    "title": "អធិរាជិនី",
+    "quote": "“Education and administrative reform strengthen the state.”\n(ការអប់រំ និងកំណែទម្រង់ ពង្រឹងរដ្ឋ។)",
+    "info": "ធ្វើទំនើបកម្មប្រព័ន្ធសាលារៀន និងរដ្ឋបាល។"
+  },
+  {
+    "country": "Denmark (ប្រទេសដាណឺម៉ាក)",
+    "leader": "King Christian X",
+    "title": "ព្រះមហាក្សត្រ",
+    "quote": "“Dignity and unity with people are most valuable.”\n(សេចក្ដីថ្លៃថ្នូរ និងការរួបរួម គឺមានតម្លៃបំផុត។)",
+    "info": "និមិត្តរូបតស៊ូក្នុងសង្គ្រាមលោក។"
+  },
+  {
+    "country": "Norway (ប្រទេសន័រវែស)",
+    "leader": "Fridtjof Nansen",
+    "title": "អ្នកការទូត",
+    "quote": "“Humanity must save each other in times of hardship.”\n(មនុស្សជាតิต้องជួយគ្នាពេលមានទុក្ខលំបាក។)",
+    "info": "អ្នកទទួលពានរង្វាន់ណូបែលសន្តិភាព។"
+  },
+  {
+    "country": "Finland (ប្រទេសហ្វាំងឡង់)",
+    "leader": "Carl Gustaf Emil Mannerheim",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Patient struggle and love for nation conquer greater power.”\n(ការតស៊ូអត់ធ្មត់ និងស្នេហាជាតិ យកឈ្នះកម្លាំងធំ។)",
+    "info": "ការពារឯករាជ្យហ្វាំងឡង់យ៉ាងអង់អាច។"
+  },
+  {
+    "country": "Ireland (ប្រទេសអៀរឡង់)",
+    "leader": "Michael Collins",
+    "title": "មេដឹកនាំបដិវត្តន៍",
+    "quote": "“For national freedom, everyone must dare to sacrifice.”\n(ដើម្បីសេរីភាពជាតិ ត្រូវហ៊ានលះបង់គ្រប់យ៉ាង។)",
+    "info": "វីរជនប្រយុទ្ធទាមទារឯករាជ្យអៀរឡង់។"
+  },
+  {
+    "country": "Czech Republic (សាធារណរដ្ឋឆិច)",
+    "leader": "Václav Havel",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Truth and love must prevail over lies.”\n(ការពិត និងសេចក្ដីស្រឡាញ់ ត្រូវឈ្នះការកុហក។)",
+    "info": "មេដឹកនាំបដិវត្តន៍ Velvet Revolution។"
+  },
+  {
+    "country": "Hungary (ប្រទេសហុងគ្រី)",
+    "leader": "Lajos Kossuth",
+    "title": "មេដឹកនាំបដិវត្តន៍",
+    "quote": "“The people's right to self-rule is sacred.”\n(សិទ្ធិប្រជាជនក្នុងការគ្រប់គ្រងខ្លួនឯង គឺជាច្បាប់ពិសិដ្ឋ។)",
+    "info": "មេដឹកនាំទាមទារឯករាជ្យហុងគ្រីឆ្នាំ១៨៤៨។"
+  },
+  {
+    "country": "Romania (ប្រទេសរូម៉ានី)",
+    "leader": "Alexandru Ioan Cuza",
+    "title": "ព្រះអង្គម្ចាស់ស្ថាបនិក",
+    "quote": "“Territorial unity is the true strength of the future.”\n(ការរួបរួមទឹកដី គឺជាកម្លាំងពិតប្រាកដ។)",
+    "info": "អ្នកបង្រួបបង្រួមរូម៉ានីសម័យទំនើប។"
+  },
+  {
+    "country": "Bulgaria (ប្រទេសប៊ុលហ្គារី)",
+    "leader": "Vasil Levski",
+    "title": "វីរជនជាតិ",
+    "quote": "“If I win, I win for the whole nation.”\n(ប្រសិនបើខ្ញុំឈ្នះ គឺឈ្នះសម្រាប់ជាតិទាំងមូល។)",
+    "info": "មេដឹកនាំបដិវត្តន៍តស៊ូរំដោះប៊ុលហ្គារី។"
+  },
+  {
+    "country": "Serbia (ប្រទេសស៊ែប៊ី)",
+    "leader": "Karađorđe Petrović",
+    "title": "មេដឹកនាំបះបោរ",
+    "quote": "“Courage comes from a heart that loves its homeland.”\n(ភាពក្លាហានកើតពីបេះដូងស្រឡាញ់ទឹកដី។)",
+    "info": "មេដឹកនាំការបះបោរស៊ែប៊ីលើកទី១។"
+  },
+  {
+    "country": "Croatia (ប្រទេសក្រូអាស៊ី)",
+    "leader": "Franjo Tuđman",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Sovereignty and freedom are unalterable foundations.”\n(អធិបតេយ្យភាព និងសេរីភាព ជាគ្រឹះមិនអាចកែប្រែ។)",
+    "info": "ដឹកនាំក្រូអាស៊ីទទួលបានឯករាជ្យ។"
+  },
+  {
+    "country": "Mongolia (ប្រទេសម៉ុងហ្គោលី)",
+    "leader": "Genghis Khan",
+    "title": "អធិរាជស្ថាបនិក",
+    "quote": "“Human strength lies in unity.”\n(កម្លាំងរបស់មនុស្សគឺស្ថិតនៅលើសាមគ្គីភាព។)",
+    "info": "បង្កើតអាណាចក្រម៉ុងហ្គោលដ៏ធំធេង។"
+  },
+  {
+    "country": "Kazakhstan (ប្រទេសកាហ្សាក់ស្ថាន)",
+    "leader": "Nursultan Nazarbayev",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Stability and economic development are our main goals.”\n(ស្ថិរភាព និងអភិវឌ្ឍន៍សេដ្ឋកិច្ច ជាគោលដៅចម្បង។)",
+    "info": "ស្ថាបនិកកសាងទីក្រុងរដ្ឋធានី Astana។"
+  },
+  {
+    "country": "Uzbekistan (ប្រទេសអ៊ូសបេគីស្ថាន)",
+    "leader": "Amir Timur",
+    "title": "អធិរាជ និងមេទ័ព",
+    "quote": "“Power lies in justice and wisdom, not force.”\n(អំណាចស្ថិតលើយុត្តិធម៌ និងប្រាជ្ញា មិនមែនកម្លាំងបាយ។)",
+    "info": "ស្ថាបនិកអាណាចក្រ Timurid។"
+  },
+  {
+    "country": "Myanmar (ប្រទេសមីយ៉ាន់ម៉ា)",
+    "leader": "Aung San",
+    "title": "បិតាឯករាជ្យជាតិ",
+    "quote": "“True independence requires unity from all ethnicities.”\n(ឯករាជ្យពិត ទាមទារការរួបរួមគ្រប់ជនជាតិ។)",
+    "info": "មេដឹកនាំតស៊ូទាមទារឯករាជ្យពីអង់គ្លេស។"
+  },
+  {
+    "country": "Laos (ប្រទេសឡាវ)",
+    "leader": "Kaysone Phomvihane",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Solidarity is the strongest force in nation building.”\n(សាមគ្គីភាព ជាកម្លាំងសាងសង់ប្រទេស។)",
+    "info": "ស្ថាបនិកសាធារណរដ្ឋប្រជាធិបតេយ្យប្រជាមានិតឡាវ។"
+  },
+  {
+    "country": "Brunei (ប្រទេសប្រ៊ុយណេ)",
+    "leader": "Sultan Hassanal Bolkiah",
+    "title": "ព្រះស៊ុលតង់",
+    "quote": "“People's well-being and peace are our highest priority.”\n(សុខុមាលភាព និងសេចក្ដីសុខសាន្ត ជាអាទិភាព។)",
+    "info": "ដឹកនាំប្រ៊ុយណេប្រកបដោយស្ថិរភាព។"
+  },
+  {
+    "country": "Timor-Leste (ទីម័រខាងកើត)",
+    "leader": "José Ramos-Horta",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Peace is more than the absence of war; it is human rights.”\n(សន្តិភាពមិនមែនគ្រាន់តែគ្មានសង្គ្រាម គឺសិទ្ធិមនុស្ស។)",
+    "info": "អ្នកទទួលពានរង្វាន់ណូបែលសន្តិភាព។"
+  },
+  {
+    "country": "Sri Lanka (ប្រទេសស្រីលង្កា)",
+    "leader": "Anagarika Dharmapala",
+    "title": "អ្នកកំណែទម្រង់",
+    "quote": "“Cultural awakening brings prosperity.”\n(ការភ្ញាក់រលឹកស្មារតីវប្បធម៌ នាំមកនូវភាពរុងរឿង។)",
+    "info": "ដឹកនាំចលនាស្តារវប្បធម៌ស្រីលង្កា។"
+  },
+  {
+    "country": "Nepal (ប្រទេសនេប៉ាល់)",
+    "leader": "Prithvi Narayan Shah",
+    "title": "ស្ថាបនិកព្រះរាជាណាចក្រ",
+    "quote": "“Nepal is a garden of colorful flowers of all ethnicities.”\n(នេប៉ាល់ជាសួនច្បារផ្កាចម្រុះគ្រប់ជាតិសាសន៍។)",
+    "info": "បង្រួបបង្រួមទឹកដីនេប៉ាល់ទំនើប។"
+  },
+  {
+    "country": "Bhutan (ប្រទេសប៊ូតាន់)",
+    "leader": "King Jigme Singye Wangchuck",
+    "title": "ព្រះមហាក្សត្រទី៤",
+    "quote": "“Gross National Happiness is more important than GDP.”\n(សុភមង្គលជាតិសរុប សំខាន់ជាងផលិតផលក្នុងស្រុកសរុប។)",
+    "info": "អ្នកផ្តួចផ្តើមគោលគំនិត GNH។"
+  },
+  {
+    "country": "Maldives (ប្រទេសម៉ាល់ឌីវ)",
+    "leader": "Muhammad Thakurufaanu",
+    "title": "វីរជនជាតិ",
+    "quote": "“Defending the homeland is every citizen's sacred duty.”\n(ការការពារទឹកដី គឺជាកាតព្វកិច្ចដ៏ពិសិដ្ឋ។)",
+    "info": "រំដោះម៉ាល់ឌីវពីព័រទុយហ្គាល់។"
+  },
+  {
+    "country": "United Arab Emirates (អារ៉ាប់រួម)",
+    "leader": "Sheikh Zayed bin Sultan Al Nahyan",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“A country's true wealth is its youth.”\n(ទ្រព្យសម្បត្តិពិតប្រាកដ គឺយុវជនជំនាន់ក្រោយ។)",
+    "info": "បង្រួបបង្រួមរដ្ឋទាំង ៧ ក្លាយជា UAE។"
+  },
+  {
+    "country": "Qatar (ប្រទេសកាតា)",
+    "leader": "Sheikh Jassim bin Mohammed Al Thani",
+    "title": "ស្ថាបនិករដ្ឋកាតា",
+    "quote": "“Independence and courage are the foundation of states.”\n(ឯករាជ្យភាព និងក្លាហាន ជាគ្រឹះសាងសង់រដ្ឋ។)",
+    "info": "បង្រួបបង្រួមបង្កើតរដ្ឋកាតាទំនើប។"
+  },
+  {
+    "country": "Kuwait (ប្រទេសគុយវ៉ែត)",
+    "leader": "Sheikh Abdullah Al-Salem Al-Sabah",
+    "title": "អាមៀស្ថាបនិក",
+    "quote": "“Constitution and democracy are the base of social peace.”\n(ធម្មនុញ្ញ និងប្រជាធិបតេយ្យ ជាគ្រឹះសន្តិភាពសង្គម។)",
+    "info": "ប្រកាសឯករាជ្យភាពគុយវ៉ែត។"
+  },
+  {
+    "country": "Oman (ប្រទេសអូម៉ង់)",
+    "leader": "Qaboos bin Said",
+    "title": "ព្រះស៊ុលតង់",
+    "quote": "“Peaceful diplomacy and friendship are the way forward.”\n(ការទូតសន្តិភាព និងមិត្តភាព គឺជាផ្លូវទៅមុខ។)",
+    "info": "ប្រែក្លាយអូម៉ង់ជាប្រទេសទំនើបមានសន្តិសុខ។"
+  },
+  {
+    "country": "Jordan (ប្រទេសហ្ស៊កដានី)",
+    "leader": "King Hussein",
+    "title": "ព្រះមហាក្សត្រ",
+    "quote": "“Peace is the noblest goal to strive for.”\n(សន្តិភាពគឺជាគោលដៅថ្លៃថ្លាបំផុត។)",
+    "info": "ដឹកនាំប្រទេសឆ្លងកាត់វិបត្តិមជ្ឈិមបូព៌ា។"
+  },
+  {
+    "country": "Lebanon (ប្រទេសលីបង់)",
+    "leader": "Bechara El Khoury",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Cooperation among diverse cultures is Lebanon's strength.”\n(កិច្ចសហការវប្បធម៌ចម្រុះ គឺជាកម្លាំងរបស់លីបង់។)",
+    "info": "បិតាស្ថាបនិកឯករាជ្យលីបង់។"
+  },
+  {
+    "country": "Algeria (ប្រទេសអាល់ហ្សេរី)",
+    "leader": "Ahmed Ben Bella",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“The struggle for independence is a triumph of human dignity.”\n(ការតស៊ូទាមទារឯករាជ្យ ជាជ័យជម្នះសេចក្ដីថ្លៃថ្នូរ។)",
+    "info": "មេដឹកនាំបដិវត្តន៍តស៊ូរំដោះពីបារាំង។"
+  },
+  {
+    "country": "Tunisia (ប្រទេសទុយនីស៊ី)",
+    "leader": "Habib Bourguiba",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Education and equal rights are keys to modern society.”\n(ការអប់រំ និងសិទ្ធិស្មើគ្នា ជាគន្លឹះសង្គមទំនើប។)",
+    "info": "បិតាស្ថាបនិកទុយនីស៊ីសម័យទំនើប។"
+  },
+  {
+    "country": "Ethiopia (ប្រទេសអេត្យូពី)",
+    "leader": "Emperor Haile Selassie",
+    "title": "អធិរាជអេត្យូពី",
+    "quote": "“Global peace requires equal respect among nations.”\n(សន្តិភាពសកល ទាមទារការគោរពសិទ្ធិស្មើគ្នា។)",
+    "info": "ស្ថាបនិកអង្គការសហភាពអាហ្វ្រិក (OAU)។"
+  },
+  {
+    "country": "Tanzania (ប្រទេសតង់សានី)",
+    "leader": "Julius Nyerere",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Freedom and equality are the foundation of a good society.”\n(សេរីភាព និងសមធម៌ ជាគ្រឹះសង្គមល្អប្រសើរ។)",
+    "info": "បិតាស្ថាបនិកប្រទេសតង់សានី។"
+  },
+  {
+    "country": "Senegal (ប្រទេសសេណេហ្គាល់)",
+    "leader": "Leopold Sedar Senghor",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Culture is a bridge connecting all humanity.”\n(វប្បធម៌ជាស្ពានតភ្ជាប់មនុស្សជាតិទាំងអស់។)",
+    "info": "រដ្ឋបុរស និងប្រធានាធិបតីទី១ សេណេហ្គាល់។"
+  },
+  {
+    "country": "Zimbabwe (ប្រទេសស៊ីមប៉ាវ៉េ)",
+    "leader": "Joshua Nkomo",
+    "title": "មេដឹកនាំជាតិនិយម",
+    "quote": "“This land belongs equitably to all people.”\n(ទឹកដីនេះជារបស់ពលរដ្ឋគ្រប់រូបដោយសមធម៌។)",
+    "info": "មេដឹកនាំតស៊ូរំដោះជាតិស៊ីមប៉ាវ៉េ។"
+  },
+  {
+    "country": "Venezuela (ប្រទេសវ៉េណេស៊ុអេລາ)",
+    "leader": "Francisco de Miranda",
+    "title": "វីរជនរំដោះជាតិ",
+    "quote": "“Freedom is the most precious gift to fight for.”\n(សេរីភាពជាអំណោយថ្លៃថ្លាត្រូវប្រយុទ្ធយកមកវិញ។)",
+    "info": "អ្នកផ្តួចផ្តើមរំដោះអាមេរិកឡាទីន។"
+  },
+  {
+    "country": "Peru (ប្រទេសប៉េរូ)",
+    "leader": "Túpac Amaru II",
+    "title": "មេដឹកនាំបះបោរ",
+    "quote": "“Future generations will keep demanding rights and justice.”\n(កូនចៅជំនាន់ក្រោយនឹងបន្តទាមទារសិទ្ធិយុត្តិធម៌។)",
+    "info": "មេដឹកនាំជនជាតិដើមតស៊ូដើម្បីយុត្តិធម៌។"
+  },
+  {
+    "country": "Uruguay (ប្រទេសអ៊ុយរូហ្គាយ)",
+    "leader": "José Gervasio Artigas",
+    "title": "វីរជនជាតិ",
+    "quote": "“True power must serve the people justly.”\n(អំណាចពិតប្រាកដ ត្រូវបម្រើប្រជាជនដោយយុត្តិធម៌។)",
+    "info": "បិតាឯករាជ្យប្រទេសអ៊ុយរូហ្គាយ។"
+  },
+  {
+    "country": "Paraguay (ប្រទេសប៉ារ៉ាគ្វាយ)",
+    "leader": "Gaspar Rodríguez de Francia",
+    "title": "មេដឹកនាំស្ថាបនិក",
+    "quote": "“Defending national sovereignty is the state's main duty.”\n(ការការពារអធិបតេយ្យភាពជាតិ ជាភារកិច្ចចម្បង។)",
+    "info": "ការពារឯករាជ្យភាពប៉ារ៉ាគ្វាយ។"
+  },
+  {
+    "country": "Bolivia (ប្រទេសបូលីវី)",
+    "leader": "Juana Azurduy de Padilla",
+    "title": "វីរនារីតស៊ូជាតិ",
+    "quote": "“Courage lies in a patriotic heart.”\n(សេចក្ដីក្លាហាន ស្ថិតលើបេះដូងស្នេហាជាតិ។)",
+    "info": "វីរនារីប្រយុទ្ធទាមទារឯករាជ្យ។"
+  },
+  {
+    "country": "Ecuador (ប្រទេសអេក្វាឌ័រ)",
+    "leader": "Eloy Alfaro",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Freedom of thought and education illuminate society.”\n(សេរីភាពគិត និងអប់រំ គឺជាពន្លឺបំភ្លឺសង្គម。)",
+    "info": "ដឹកនាំកែទម្រង់ទំនើបកម្មនៅអេក្វាឌ័រ។"
+  },
+  {
+    "country": "Costa Rica (ប្រទេសកូស្តារីកា)",
+    "leader": "José Figueres Ferrer",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“We abolished the army to build schools and hospitals.”\n(លុបចោលកងទ័ព ដើម្បីយកថវិកាទៅសាងសង់សាលារៀន។)",
+    "info": "រំសាយកងទ័ពជាតិ ផ្តោតលើការអប់រំសុខាភិបាល។"
+  },
+  {
+    "country": "Panama (ប្រទេសប៉ាណាម៉ា)",
+    "leader": "Omar Torrijos",
+    "title": "មេដឹកនាំជាតិ",
+    "quote": "“Sovereignty over one's land is the highest honor.”\n(អធិបតេយ្យភាពលើទឹកដីខ្លួនឯង ជាកិត្តិយសខ្ពស់បំផុត។)",
+    "info": "ចរចាទាមទារសិទ្ធិគ្រប់គ្រងប្រឡាយប៉ាណាម៉ា។"
+  },
+  {
+    "country": "Guatemala (ប្រទេសក្វាតេម៉ាឡា)",
+    "leader": "Juan José Arévalo",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Democracy must guarantee a decent life for all.”\n(ប្រជាធិបតេយ្យត្រូវធានាជីវភាពសមរម្យសម្រាប់ពលរដ្ឋ។)",
+    "info": "អ្នកដាក់គ្រឹះកំណែទម្រង់សង្គម។"
+  },
+  {
+    "country": "Honduras (ប្រទេសហុងឌូរ៉ាស)",
+    "leader": "Francisco Morazán",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Federation and solidarity are our region's strength.”\n(សហព័ន្ធ និងសាមគ្គីភាព ជាកម្លាំងរឹងមាំ។)",
+    "info": "រដ្ឋបុរសសហព័ន្ធសាធារណរដ្ឋអាមេរិកកណ្តាល។"
+  },
+  {
+    "country": "Jamaica (ប្រទេសហ្សាម៉ាអ៊ីត)",
+    "leader": "Marcus Garvey",
+    "title": "មេដឹកនាំសិទ្ធិមនុស្ស",
+    "quote": "“Be proud of your history and heritage.”\n(ចូរមានមោទកភាពចំពោះប្រវត្តិសាស្ត្ររបស់អ្នក។)",
+    "info": "មេដឹកនាំចលនាគាំទ្រសិទ្ធិសកល។"
+  },
+  {
+    "country": "Haiti (ប្រទេសហៃទី)",
+    "leader": "Toussaint Louverture",
+    "title": "មេដឹកនាំបដិវត្តន៍",
+    "quote": "“In destroying me, you only cut the tree of freedom's trunk.”\n(ផ្តួលខ្ញុំបានត្រឹមដើមឈើសេរីភាព តែឫសវាជ្រៅណាស់។)",
+    "info": "បង្កើតរដ្ឋឯករាជ្យដំបូងនៅការ៉ាប៊ីន។"
+  },
+  {
+    "country": "Dominican Republic (ដូមីនិក)",
+    "leader": "Juan Pablo Duarte",
+    "title": "បិតាស្ថាបនិក",
+    "quote": "“To survive, citizens must be honest and brave.”\n(ដើម្បីរស់រាន ពលរដ្ឋត្រូវស្មោះត្រង់និងក្លាហាន។)",
+    "info": "ស្ថាបនិកចលនាឯករាជ្យដូមីនិក។"
+  },
+  {
+    "country": "Iceland (ប្រទេសអ៊ីស្លង់)",
+    "leader": "Jón Sigurðsson",
+    "title": "មេដឹកនាំចលនា",
+    "quote": "“People's rights and laws shield national freedom.”\n(សិទ្ធិនិងច្បាប់ ជាខែលការពារសេរីភាពជាតិ។)",
+    "info": "ទាមទារសិទ្ធិអំណាច និងឯករាជ្យអ៊ីស្លង់។"
+  },
+  {
+    "country": "Luxembourg (ប្រទេសលុចសំបួ)",
+    "leader": "Grand Duke Jean",
+    "title": "មហាពញាលុចសំបួ",
+    "quote": "“European solidarity is the base of peace.”\n(សាមគ្គីភាពអឺរ៉ុប គឺជាមូលដ្ឋានសន្តិភាព។)",
+    "info": "ដឹកនាំលុចសំបួក្លាយជាមជ្ឈមណ្ឌលហិរញ្ញវត្ថុ។"
+  },
+  {
+    "country": "Slovakia (ប្រទេសស្លូវ៉ាគី)",
+    "leader": "Alexander Dubček",
+    "title": "អ្នកនយោបាយកំណែទម្រង់",
+    "quote": "“You can crush flowers, but not stop spring.”\n(កំទេចផ្កាបាន តែមិនអាចឃាត់និទាឃរដូវទេ។)",
+    "info": "មេដឹកនាំចលនា Prague Spring។"
+  },
+  {
+    "country": "Slovenia (ប្រទេសស្លូវេនី)",
+    "leader": "Milan Kučan",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Independence and democracy are people's choice.”\n(ឯករាជ្យនិងប្រជាធិបតេយ្យ ជាជម្រើសប្រជាជន។)",
+    "info": "ដឹកនាំស្លូវេនីឆ្ពោះទៅរកឯករាជ្យដោយសន្តិវិធី។"
+  },
+  {
+    "country": "Estonia (ប្រទេសអេស្តូនី)",
+    "leader": "Lennart Meri",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Small nations grow strong through technology and knowledge.”\n(ប្រទេសតូចរីកចម្រើនខ្លាំងតាមបច្ចេកវិទ្យា។)",
+    "info": "ដាក់គ្រឹះអេស្តូនីជាប្រទេសឌីជីថល។"
+  },
+  {
+    "country": "Latvia (ប្រទេសឡាតវី)",
+    "leader": "Kārlis Ulmanis",
+    "title": "នាយករដ្ឋមន្ត្រី",
+    "quote": "“Latvia's land and people are our sacred duty.”\n(ទឹកដី និងប្រជាជនឡាតវី គឺជាភារកិច្ចពិសិដ្ឋ។)",
+    "info": "ដឹកនាំកសាង និងអភិវឌ្ឍន៍ប្រទេសឡាតវី។"
+  },
+  {
+    "country": "Lithuania (ប្រទេសលីទុយអានី)",
+    "leader": "Vytautas Landsbergis",
+    "title": "មេដឹកនាំជាតិ",
+    "quote": "“Unity and freedom cannot be broken by force.”\n(សាមគ្គីភាពនិងសេរីភាព បំបែកដោយកម្លាំងមិនបានទេ។)",
+    "info": "ដឹកនាំប្រកាសឯករាជ្យភាពលីទុយអានីឡើងវិញ។"
+  },
+  {
+    "country": "Cyprus (ប្រទេសស៊ីប)",
+    "leader": "Makarios III",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“Freedom is preserved through vigilance and justice.”\n(សេរីភាពរក្សាបានតាមរយៈការប្រុងប្រយ័ត្ន។)",
+    "info": "ព្រះសង្ឃ និងជារដ្ឋបុរសដឹកនាំស៊ីប។"
+  },
+  {
+    "country": "Malta (ប្រទេសម៉ាល់តា)",
+    "leader": "Dom Mintoff",
+    "title": "នាយករដ្ឋមន្ត្រី",
+    "quote": "“National dignity starts with economic independence.”\n(សេចក្ដីថ្លៃថ្នូរជាតិ ចាប់ផ្តើមពីឯករាជ្យសេដ្ឋកិច្ច។)",
+    "info": "រៀបចំកែទម្រង់សង្គម និងសេដ្ឋកិច្ចម៉ាល់តា។"
+  },
+  {
+    "country": "Albania (ប្រទេសអាល់បានី)",
+    "leader": "Skanderbeg",
+    "title": "វីរជនជាតិ",
+    "quote": "“I did not bring you freedom; I found it here among you.”\n(ខ្ញុំមិនបានយកសេរីភាពមកទេ គឺរកឃើញក្នុងចំណោមពួកអ្នក។)",
+    "info": "វីរជនប្រវត្តិសាស្ត្រការពារជាតិអាល់បានី។"
+  },
+  {
+    "country": "Armenia (ប្រទេសអាមេនី)",
+    "leader": "Aram Manukian",
+    "title": "មេដឹកនាំរដ្ឋាភិបាល",
+    "quote": "“Organization and unity create our own destiny.”\n(ការរៀបចំ និងសាមគ្គីភាព កសាងវាសនាខ្លួនឯង។)",
+    "info": "ស្ថាបនិកសាធារណរដ្ឋអាមេនីទី១។"
+  },
+  {
+    "country": "Georgia (ប្រទេសហ្សកហ្ស៊ី)",
+    "leader": "King David IV",
+    "title": "ព្រះមហាក្សត្រដ៏អស្ចារ្យ",
+    "quote": "“Wisdom and bravery are shields of the realm.”\n(ប្រាជ្ញា និងភាពក្លាហាន ជាខែលការពារនគរ។)",
+    "info": "ពង្រីក និងកសាងយុគមាសហ្សកហ្ស៊ី។"
+  },
+  {
+    "country": "Azerbaijan (ប្រទេសអាស៊ែបៃសង់)",
+    "leader": "Heydar Aliyev",
+    "title": "ប្រធានាធិបតី",
+    "quote": "“Statehood is our greatest achievement to protect.”\n(អធិបតេយ្យរដ្ឋ ជាសមិទ្ធផលធំបំផុតត្រូវការពារ។)",
+    "info": "ធានាស្ថិរភាពនយោបាយ និងសេដ្ឋកិច្ចអាស៊ែបៃសង់។"
+  },
+  {
+    "country": "Belarus (ប្រទេសបេឡារុស្ស)",
+    "leader": "Francysk Skaryna",
+    "title": "អ្នកប្រាជ្ញ និងអ្នកបោះពុម្ព",
+    "quote": "“Knowledge through native language enlightens the soul.”\n(ចំណេះដឹងភាសាកំណើត បំភ្លឺស្មារតី។)",
+    "info": "បិតាវិស័យបោះពុម្ពផ្សាយភាសាបេឡារុស្ស។"
+  },
+  {
+    "country": "Moldova (ប្រទេសម៉ុលដាវី)",
+    "leader": "Stephen the Great",
+    "title": "ព្រះអង្គម្ចាស់",
+    "quote": "“Moldova is not mine; it belongs to our descendants.”\n(ទឹកដីនេះមិនមែនបស់ខ្ញុំទេ ជាបស់កូនចៅយើង។)",
+    "info": "វីរជនការពារទឹកដីម៉ុលដាវីប្រវត្តិសាស្ត្រ។"
+  },
+  {
+    "country": "Bosnia and Herzegovina (បូស្នีย)",
+    "leader": "Alija Izetbegović",
+    "title": "ប្រធានាធិបតីទី១",
+    "quote": "“We fight for freedom, justice, and human dignity.”\n(យើងប្រយុទ្ធដើម្បីសេរីភាព យុត្តិធម៌ និងសេចក្ដីថ្លៃថ្នូរ។)",
+    "info": "ប្រធានាធិបតីទី១ ដឹកនាំការពាររដ្ឋបូស្នีย។"
+  },
+  {
+    "country": "North Macedonia (ម៉ាសេដ្វានខាងជើង)",
+    "leader": "Goce Delčev",
+    "title": "មេដឹកនាំបដិវត្តន៍",
+    "quote": "“I see the world as a field for cultural competition.”\n(ខ្ញុំមើលឃើញពិភពលោក ជាវាលប្រកួតវប្បធម៌។)",
+    "info": "វីរជនប្រយុទ្ធទាមទារសេរីភាពជាតិ។"
+  },
+  {
+    "country": "Montenegro (ប្រទេសម៉ុងតេណេហ្គ្រោ)",
+    "leader": "Petar II Petrović-Njegoš",
+    "title": "ព្រះសង្ឃ និងកវីរដ្ឋបុរស",
+    "quote": "“He who has a brave heart fears no obstacle.”\n(អ្នកមានបេះដូងក្លាហាន មិនខ្លាចឧបសគ្គទេ។)",
+    "info": "កវី និងមេដឹកនាំប្រវត្តិសាស្ត្រម៉ុងតេណេហ្គ្រោ។"
+  }
+]
